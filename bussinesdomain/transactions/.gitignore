@@ -30,6 +30,8 @@ build/
 !**/src/test/**/build/
 nbactions.xml
 mvnw
+mvnw.cmd
+
 
 ### VS Code ###
 .vscode/
